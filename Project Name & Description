@@ -1,0 +1,5 @@
+Predicting Kyphosis in Body using Decision Tree ClassifierPredicting Kyphosis in Body using Decision Tree Classifier
+
+Used the kyphosis.csv dataset to predict the value of Kyphosis either Present or
+Absent using feature names called Age, Number and Start. 
+Used both Decision Tree and Random Forest Classifier to predict the value of kyphosis
