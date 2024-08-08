@@ -1,5 +1,12 @@
-Predicting Kyphosis in Body using Decision Tree ClassifierPredicting Kyphosis in Body using Decision Tree Classifier
+1."Predicting Kyphosis in Body using Decision Tree ClassifierPredicting Kyphosis in Body using Decision Tree Classifier"
 
 Used the kyphosis.csv dataset to predict the value of Kyphosis either Present or
-Absent using feature names called Age, Number and Start. 
+Absent using feature names called Age, Number, and Start. 
 Used both Decision Tree and Random Forest Classifier to predict the value of kyphosis
+
+
+2. "Predicting Loan Return using various FeaturesPredicting Loan Return using various Features"
+
+Used the loan_data.csv dataset to predict whether a certain individual paid off his loan completely or 
+not using various features as present in the loan_data.csv. 
+Performed exploratory data analysis and cleaning and then applied Decision Tree and Random Forest classifier to the data.
